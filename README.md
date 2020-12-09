@@ -2,6 +2,7 @@
 
 This tool will propose several worflow process for the analyse of several spheroid areas.
 Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-model-for-glioblastoma) to get more information about the image analysis tools.
+This tool is a more ergonomic version of the previous published one.
 
 
 ## Installation Instructions
@@ -19,7 +20,6 @@ Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder 
 
 
 ## How to Cite
-Guyon, J., Strale, P-O., Romero-Garmendia, I., Bikfalvi, A., Studer, V. and Daubon, T. DOI: [In Revision](https://)
 Guyon, J., Andrique, L., Pujol, N., Røsland, G. V., Recher, G., Bikfalvi, A., Daubon, T. A 3D Spheroid Model for Glioblastoma. J. Vis. Exp. (158), e60998, DOI: [10.3791/60998](https://www.jove.com/t/60998?language=French) (2020).
 
 
