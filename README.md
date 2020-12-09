@@ -2,7 +2,7 @@
 
 This tool will propose several worflow process for the analyse of several spheroid areas.
 Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-model-for-glioblastoma) to get more information about the image analysis tools.
-This tool is a more ergonomic version of the previous published one because parameters can be changed in dialog boxes (left click).
+It is a more ergonomic version of the previous published one because parameters can be easily changed in dialog boxes (left click).
 
 
 ## Installation Instructions
