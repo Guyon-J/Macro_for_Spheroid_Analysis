@@ -2,7 +2,7 @@
 
 This tool will propose several worflow process for the analyse of several spheroid areas.
 Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-model-for-glioblastoma) to get more information about the image analysis tools.
-This tool is a more ergonomic version of the previous published one.
+This tool is a more ergonomic version of the previous published one because parameters can be changed in dialog boxes (left click).
 
 
 ## Installation Instructions
@@ -11,9 +11,9 @@ Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder 
 
 
 ## Tool icons
-1. SPH <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/SPH.png" height='40'/> XXX <br><br><hr>
-2. TOTAL <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/TOTAL.png" height='40'/> XXX <br><br><hr>
-3. CORE <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/CORE.png" height='40'/> XXX <br><br><hr>
+1. Global Area <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/SPH.png" height='40'/> Allows simultaneous analysis of multiple spheroid images. It is possible to choose the area to quantify in the dialogs box. <br><br><hr>
+2. Total area <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/TOTAL.png" height='40'/> Analysis of the total area of one image of spheroid. <br><br><hr>
+3. Core Area <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/CORE.png" height='40'/> Analysis of the core area of one image of spheroid. <br><br><hr>
 
 
 
