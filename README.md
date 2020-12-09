@@ -11,9 +11,9 @@ Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder 
 
 
 ## Tool icons
-1. SPH <br> <img align='left' src="       " height='40'/> XXX <br><br><hr>
-2. TOTAL <br> <img align='left' src="        " height='40'/> XXX <br><br><hr>
-3. CORE <br> <img align='left' src="        " height='40'/> XXX <br><br><hr>
+1. SPH <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/SPH.tif" height='40'/> XXX <br><br><hr>
+2. TOTAL <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/TOTAL.tif" height='40'/> XXX <br><br><hr>
+3. CORE <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/CORE.tif" height='40'/> XXX <br><br><hr>
 
 
 
