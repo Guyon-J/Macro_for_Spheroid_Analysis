@@ -6,7 +6,7 @@ It is a more ergonomic version of the previous published one because parameters 
 
 
 ## Installation Instructions
-In Fiji window, open Plugins > Macros > Startup Macros... and copy and past the code. 
+In Fiji window, open Plugins > Macros > Startup Macros... and copy and past the [code](https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Macro_Spheroid_v2.ijm). 
 Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder > macros > toolsets.
 
 
