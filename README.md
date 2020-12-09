@@ -11,7 +11,7 @@ Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder 
 
 
 ## Tool icons
-1. Global Area <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/SPH.png" height='40'/> Allows simultaneous analysis of multiple spheroid images. It is possible to choose the area to quantify in the dialogs box. <br><br><hr>
+1. Global Area <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/SPH.png" height='40'/> Allows simultaneous analysis of multiple spheroid images. It is possible to choose the area to quantify in the dialogs box. Combination of the two following tool. <br><br><hr>
 2. Total area <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/TOTAL.png" height='40'/> Analysis of the total area of one image of spheroid. <br><br><hr>
 3. Core Area <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/CORE.png" height='40'/> Analysis of the core area of one image of spheroid. <br><br><hr>
 
