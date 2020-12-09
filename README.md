@@ -5,7 +5,7 @@ Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-m
 While the code is the same, it is a more ergonomic version of the previous published one because parameters can be easily changed in dialog boxes (left click).
 
 
-## Installation Instructions
+## Installation instructions
 In Fiji window, open Plugins > Macros > Startup Macros... and copy and past the [code](https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Macro_Spheroid_v2.ijm). 
 Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder > macros > toolsets.
 
