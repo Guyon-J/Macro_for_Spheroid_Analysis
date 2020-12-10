@@ -9,6 +9,8 @@ While the code is the same, it is a more ergonomic version of the previous publi
 In Fiji window, open Plugins > Macros > Startup Macros... and copy and past the __[code](https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Macro_Spheroid_v2.ijm)__. 
 Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder > macros > toolsets.
 
+Select the tool in the "More Tools" menu (**>>**)
+
 
 ## Tool icons
 1. Global Area <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/SPH.png" height='40'/> Allows simultaneous analysis of multiple spheroid images. It is possible to choose the area to quantify in the dialogs box. Combination of the two following tool. <br><br><hr>
