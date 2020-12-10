@@ -1,6 +1,6 @@
 # An analysis tool for Cancer Spheroids 
 
-This tool will propose several worflow process for the analyse of spheroid areas.
+This tool will propose several processes for the automatic analysis of spheroids.
 Have a look at the project's [JOVE](https://www.jove.com/v/60998/a-3d-spheroid-model-for-glioblastoma) to get more information about the image analysis tools.
 While the code is the same, it is a more ergonomic version of the previous published one because parameters can be easily changed in dialog boxes (left click).
 
