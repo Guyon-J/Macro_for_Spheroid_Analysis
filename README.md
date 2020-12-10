@@ -20,7 +20,9 @@ Change the language into IJ1 Macro and save as .ijm file in the Fiji.app folder 
 
 
 ## How to Cite
-Guyon, J., Andrique, L., Pujol, N., Røsland, G. V., Recher, G., Bikfalvi, A., Daubon, T. A 3D Spheroid Model for Glioblastoma. J. Vis. Exp. (158), e60998, DOI: [10.3791/60998](https://www.jove.com/t/60998?language=French) (2020).
+<br> <img align='left' src="https://cdn.ncbi.nlm.nih.gov/corehtml/query/egifs/http:--www.jove.com-projects-PubMed-icon150x35.png" height='30'/>
+Guyon, J., Andrique, L., Pujol, N., Røsland, G. V., Recher, G., Bikfalvi, A., Daubon, T. A 3D Spheroid Model for Glioblastoma. J. Vis. Exp. (158), e60998, DOI: [10.3791/60998](https://www.jove.com/t/60998?language=French) (2020). <br><br><hr>
+
 
 
 
