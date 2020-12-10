@@ -22,7 +22,7 @@ var background_radius = 5 ;
 var min_size = 15000 ;
 var name ;
 
-var URL = "https://github.com/Guyon-J/Macro_for_Spheroid_Analysis" ;
+var URL = "https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/README.md" ;
 
 
 /*********************************************************************************************************************
