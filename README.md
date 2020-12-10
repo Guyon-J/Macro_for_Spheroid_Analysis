@@ -22,7 +22,7 @@ Select the tool in the "More Tools" menu (**>>**)
 <br>
 
 ## How to Cite
-<br> [<img align='right' src="https://www.jove.com/img/logo_share.jpg" height='100'/>](https://www.jove.com/t/60998?language=French)
+<br> [<img align='right' src="https://www.jove.com/img/logo_share.jpg" height='75'/>](https://www.jove.com/t/60998?language=French)
 Guyon, J., Andrique, L., Pujol, N., Røsland, G. V., Recher, G., Bikfalvi, A., Daubon, T. A 3D Spheroid Model for Glioblastoma. J. Vis. Exp. (158), e60998, DOI: [10.3791/60998](https://www.jove.com/t/60998?language=French) (2020). <br>
 
 
