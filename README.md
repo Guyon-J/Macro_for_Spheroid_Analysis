@@ -18,7 +18,7 @@ Select the tool in the "More Tools" menu (**>>**)
 3. Core Area <br> <img align='left' src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/CORE.png" height='40'/> Analysis of the core area of one image of spheroid. <br><br><hr>
 
 ## Example
-<br> <img src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/Spheroid_ROI/Presentation.png" height='300'/><br><br><hr>
+<br> <img src="https://github.com/Guyon-J/Macro_for_Spheroid_Analysis/blob/main/Images/Spheroid_ROI/Presentation.png" height='400'/><br>
 <br>
 
 ## How to Cite
