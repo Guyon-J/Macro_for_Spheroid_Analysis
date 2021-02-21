@@ -1,7 +1,7 @@
 # An analysis tool for Cancer Spheroids 
 
 This tool will propose several processes for the automatic analysis of spheroids.
-Have a look at the project's [Cancer Feature Analysis](https://github.com/Guyon-J/Cancer_Feature_Analysis/wiki) to get more information about the image analysis tools.
+Have a look at the project's [Cancer Feature Analysis](https://github.com/Guyon-J/Cancer_Feature_Analysis/wiki/Welcome-to-the-Cancer-Feature-Analysis-wiki!) to get more information about the image analysis tools.
 While the code is the same, it is a more ergonomic version of the previous published one because parameters can be easily changed in dialog boxes (left click).
 
 
